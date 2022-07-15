@@ -12,6 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "frida-compile": "9.1.0",
+    "frida-fs": "^3.0.1",
     "frida-mono-api": "file:mono-api"
   }
 }

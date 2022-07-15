@@ -1,0 +1,4 @@
+[submodule "mono-api"]
+	path = mono-api
+	url = https://github.com/ezhevita/frida-mono-api
+	branch = extra
